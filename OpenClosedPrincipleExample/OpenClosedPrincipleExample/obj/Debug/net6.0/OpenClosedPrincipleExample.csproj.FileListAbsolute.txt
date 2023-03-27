@@ -1,0 +1,15 @@
+C:\Users\ardak\Desktop\C#\OpenClosedPrincipleExample\OpenClosedPrincipleExample\bin\Debug\net6.0\OpenClosedPrincipleExample.exe
+C:\Users\ardak\Desktop\C#\OpenClosedPrincipleExample\OpenClosedPrincipleExample\bin\Debug\net6.0\OpenClosedPrincipleExample.deps.json
+C:\Users\ardak\Desktop\C#\OpenClosedPrincipleExample\OpenClosedPrincipleExample\bin\Debug\net6.0\OpenClosedPrincipleExample.runtimeconfig.json
+C:\Users\ardak\Desktop\C#\OpenClosedPrincipleExample\OpenClosedPrincipleExample\bin\Debug\net6.0\OpenClosedPrincipleExample.dll
+C:\Users\ardak\Desktop\C#\OpenClosedPrincipleExample\OpenClosedPrincipleExample\bin\Debug\net6.0\OpenClosedPrincipleExample.pdb
+C:\Users\ardak\Desktop\C#\OpenClosedPrincipleExample\OpenClosedPrincipleExample\obj\Debug\net6.0\OpenClosedPrincipleExample.csproj.AssemblyReference.cache
+C:\Users\ardak\Desktop\C#\OpenClosedPrincipleExample\OpenClosedPrincipleExample\obj\Debug\net6.0\OpenClosedPrincipleExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardak\Desktop\C#\OpenClosedPrincipleExample\OpenClosedPrincipleExample\obj\Debug\net6.0\OpenClosedPrincipleExample.AssemblyInfoInputs.cache
+C:\Users\ardak\Desktop\C#\OpenClosedPrincipleExample\OpenClosedPrincipleExample\obj\Debug\net6.0\OpenClosedPrincipleExample.AssemblyInfo.cs
+C:\Users\ardak\Desktop\C#\OpenClosedPrincipleExample\OpenClosedPrincipleExample\obj\Debug\net6.0\OpenClosedPrincipleExample.csproj.CoreCompileInputs.cache
+C:\Users\ardak\Desktop\C#\OpenClosedPrincipleExample\OpenClosedPrincipleExample\obj\Debug\net6.0\OpenClosedPrincipleExample.dll
+C:\Users\ardak\Desktop\C#\OpenClosedPrincipleExample\OpenClosedPrincipleExample\obj\Debug\net6.0\refint\OpenClosedPrincipleExample.dll
+C:\Users\ardak\Desktop\C#\OpenClosedPrincipleExample\OpenClosedPrincipleExample\obj\Debug\net6.0\OpenClosedPrincipleExample.pdb
+C:\Users\ardak\Desktop\C#\OpenClosedPrincipleExample\OpenClosedPrincipleExample\obj\Debug\net6.0\OpenClosedPrincipleExample.genruntimeconfig.cache
+C:\Users\ardak\Desktop\C#\OpenClosedPrincipleExample\OpenClosedPrincipleExample\obj\Debug\net6.0\ref\OpenClosedPrincipleExample.dll

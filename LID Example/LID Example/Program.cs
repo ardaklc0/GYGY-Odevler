@@ -1,0 +1,1 @@
+﻿// Bu dosyada Liskov, Interface Segration ve Dependency Inversion prensiplerine örnekler vereceğim.

@@ -1,0 +1,15 @@
+C:\Users\ardak\Desktop\C#\LID Example\LiskovPrinciple\bin\Debug\net6.0\LiskovPrinciple.exe
+C:\Users\ardak\Desktop\C#\LID Example\LiskovPrinciple\bin\Debug\net6.0\LiskovPrinciple.deps.json
+C:\Users\ardak\Desktop\C#\LID Example\LiskovPrinciple\bin\Debug\net6.0\LiskovPrinciple.runtimeconfig.json
+C:\Users\ardak\Desktop\C#\LID Example\LiskovPrinciple\bin\Debug\net6.0\LiskovPrinciple.dll
+C:\Users\ardak\Desktop\C#\LID Example\LiskovPrinciple\bin\Debug\net6.0\LiskovPrinciple.pdb
+C:\Users\ardak\Desktop\C#\LID Example\LiskovPrinciple\obj\Debug\net6.0\LiskovPrinciple.csproj.AssemblyReference.cache
+C:\Users\ardak\Desktop\C#\LID Example\LiskovPrinciple\obj\Debug\net6.0\LiskovPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardak\Desktop\C#\LID Example\LiskovPrinciple\obj\Debug\net6.0\LiskovPrinciple.AssemblyInfoInputs.cache
+C:\Users\ardak\Desktop\C#\LID Example\LiskovPrinciple\obj\Debug\net6.0\LiskovPrinciple.AssemblyInfo.cs
+C:\Users\ardak\Desktop\C#\LID Example\LiskovPrinciple\obj\Debug\net6.0\LiskovPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\ardak\Desktop\C#\LID Example\LiskovPrinciple\obj\Debug\net6.0\LiskovPrinciple.dll
+C:\Users\ardak\Desktop\C#\LID Example\LiskovPrinciple\obj\Debug\net6.0\refint\LiskovPrinciple.dll
+C:\Users\ardak\Desktop\C#\LID Example\LiskovPrinciple\obj\Debug\net6.0\LiskovPrinciple.pdb
+C:\Users\ardak\Desktop\C#\LID Example\LiskovPrinciple\obj\Debug\net6.0\LiskovPrinciple.genruntimeconfig.cache
+C:\Users\ardak\Desktop\C#\LID Example\LiskovPrinciple\obj\Debug\net6.0\ref\LiskovPrinciple.dll
